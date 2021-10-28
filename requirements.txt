@@ -1,5 +1,3 @@
 pandas
 cufflinks
-numpy
-scipy
-matplotlib
+
